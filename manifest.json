@@ -1,0 +1,19 @@
+{
+  "name": "Avidys",
+  "description": "Avidys hosted app",
+  "version": "0.1",
+  "manifest_version": 2,
+
+  "app": {
+   "urls": [],
+   "launch": {
+       "web_url": "http://avidys.com/"
+   }
+  },
+
+  "description": "Avidys website",
+  "icons": { "128": "avidys_128.png" },
+
+  "author": "Avidys Inc."
+}
+
